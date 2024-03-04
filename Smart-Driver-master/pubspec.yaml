@@ -1,0 +1,68 @@
+name: smartdriver
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+module:
+  androidX: true
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  
+  http_parser: ^3.1.4
+
+  firebase_auth: ^0.15.5+3
+
+  firebase_storage: ^3.1.3
+
+  cloud_firestore: ^0.13.5
+
+  flutter_map: any
+
+  flutter_polyline_points: ^0.2.1
+
+  font_awesome_flutter: ^8.8.1
+
+  toast: ^0.1.5
+
+  
+
+  
+
+
+
+
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  google_maps_flutter: ^2.0.10
+  location: ^3.2.4
+  
+  trust_location: ^2.0.13
+  location_permissions: ^4.0.1
+  permission_handler: ^5.1.0+2
+  
+ 
+  
+  
+
+
+dependency_overrides:
+  platform: ^3.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+flutter:
+
+  assets:
+    - assets/images/
+
+  uses-material-design: true
+

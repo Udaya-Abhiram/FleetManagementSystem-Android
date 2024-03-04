@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "970077587556",
+    "project_id": "smart-fleet-9aa0c",
+    "storage_bucket": "smart-fleet-9aa0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970077587556:android:98d6efb122e7a68a4f3771",
+        "android_client_info": {
+          "package_name": "com.example.smartfleet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970077587556-502cpav6qu141bro8ngngcfsq8gcaoed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDfLaFnCwLCl5ARA8vXCJiyjaVk5g5O4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970077587556-502cpav6qu141bro8ngngcfsq8gcaoed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
